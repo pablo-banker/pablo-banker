@@ -64,6 +64,7 @@ Today, I work across backend, frontend and game development, with a strong focus
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
+---
 
 ## GitHub activity
 
