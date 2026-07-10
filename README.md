@@ -66,7 +66,7 @@ Today, I work across backend, frontend and game development, with a strong focus
 
 ---
 
-## GitHub activity
+## Activity
 
 <picture>
   <source
