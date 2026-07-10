@@ -65,6 +65,8 @@ Today, I work across backend, frontend and game development, with a strong focus
 </p>
 
 
+## GitHub activity
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
